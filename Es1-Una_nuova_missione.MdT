@@ -1,0 +1,20 @@
+
+
+
+(0, ^A, 0, ^A, >)
+(0, -, FINE, -, <)
+(0, A, A, A, >)
+(a, ^r, 0, ^r, >)
+(a, r, Ar, r, >)
+(ar, ^t, 0, ^t, >)
+(ar, t, Art, t, >)
+(art, ^e, 0, ^e, >)
+(art, e, Arte, e, >)
+(arte, ^m, 0, ^m, >)
+(arte, m, Artem, m, >)
+(artem, ^i, 0, ^i, >)
+(artem, i, Artemi, i, >)
+(artemi, ^s, 0, ^s, >)
+(artemi, s, Artemis, s, >)
+(artemis, ^1, 0, ^1, >)
+(artemis, 1, 0, 2, >)
